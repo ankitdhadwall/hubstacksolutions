@@ -2108,3 +2108,17 @@ p.form-message.success, p.form-message.error {
 ===========================*/
 
 /*# sourceMappingURL=style.css.map */
+
+
+.hss-email{
+  display: flex;
+  padding: 0;
+  min-height: 193px;
+  flex-direction: column;
+  justify-content: center;
+  
+}
+.hss-email p{
+  padding: 0 16px;
+  word-wrap: break-word;
+}
